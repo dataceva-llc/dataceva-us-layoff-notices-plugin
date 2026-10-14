@@ -1,0 +1,28 @@
+{
+  "name": "dataceva-us-layoff-notices",
+  "displayName": "DataCEVA US Layoff Notices",
+  "version": "1.0.0",
+  "description": "Research U.S. layoffs and plant closings from WARN Act notices: sourced company briefings, layoffs near a place, and fair trend comparisons across 46 states and Washington, D.C., using DataCEVA's read-only layoff notices connector.",
+  "author": {
+    "name": "DataCEVA LLC",
+    "email": "access@dataceva.com",
+    "url": "https://www.dataceva.com"
+  },
+  "homepage": "https://dc-ai-plugin-layoff-notices-mcp.onrender.com/docs",
+  "repository": "https://github.com/dataceva-llc/dataceva-us-layoff-notices-plugin",
+  "license": "MIT",
+  "keywords": [
+    "layoffs",
+    "warn-act",
+    "warn-notices",
+    "plant-closings",
+    "labor-market",
+    "workforce",
+    "research"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://dc-ai-plugin-layoff-notices-mcp.onrender.com/docs",
+  "supportUrl": "https://dc-ai-plugin-layoff-notices-mcp.onrender.com/support",
+  "privacyPolicyUrl": "https://dc-ai-plugin-layoff-notices-mcp.onrender.com/privacy",
+  "termsOfServiceUrl": "https://dc-ai-plugin-layoff-notices-mcp.onrender.com/terms"
+}
