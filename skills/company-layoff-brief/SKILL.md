@@ -1,6 +1,6 @@
 ---
 name: company-layoff-brief
-description: "Research one company's U.S. layoffs and plant closings from WARN Act notices and write a sourced briefing. Use when the user asks whether a company is laying people off, wants a company's layoff or WARN history, or names an employer and asks about job cuts, closures or downsizing in the U.S."
+description: "Use for questions about a specific company's U.S. layoffs, WARN Act notices, workforce reductions, plant closures or layoff history: whether a company is laying people off, an employer's layoff or WARN history, or its job cuts, closures or downsizing. Writes a sourced company layoff briefing. Use the DataCEVA US Layoff Notices connector to find and verify notices, counts, dates and state coverage."
 ---
 
 # Company layoff brief
