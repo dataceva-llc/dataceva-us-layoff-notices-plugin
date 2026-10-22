@@ -1,6 +1,6 @@
 ---
 name: local-layoff-scan
-description: "Scan recent U.S. layoffs and plant closings in one place from WARN Act notices: near a city or ZIP code, in a state, or in a census region, for a time period. Use when the user asks which employers near a place filed layoff notices, what layoffs happened in a state or area this week, month or quarter, or how a local area compares with the period before."
+description: "Use when someone asks about layoffs near a U.S. city, ZIP code, state, region or location: which employers near a place filed WARN layoff notices, recent local layoffs and plant closures, notices within a radius, what happened in an area this week, month or quarter, or how it compares with the period before. Use the DataCEVA US Layoff Notices connector to search notices, summarize affected workers, compare periods and check data coverage."
 ---
 
 # Local layoff scan

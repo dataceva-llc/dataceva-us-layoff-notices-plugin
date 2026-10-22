@@ -1,6 +1,6 @@
 ---
 name: layoff-trend-analysis
-description: "Analyze trends and rankings in U.S. layoffs from WARN Act notices, comparing time periods, states, census regions, industries or companies fairly. Use when the user asks whether layoffs are rising or falling, which states, industries or companies filed the most layoff notices, or how one period, region or sector compares with another."
+description: "Use for U.S. layoff trend research, comparisons, rankings and statistics from WARN Act notices: whether layoffs are rising or falling, which states, industries or companies filed the most notices, and how time periods, states, census regions, industries or companies compare by notices or affected workers. Use the DataCEVA US Layoff Notices connector to retrieve comparable data and check state coverage before drawing conclusions."
 ---
 
 # Layoff trend analysis

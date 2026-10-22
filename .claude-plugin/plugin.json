@@ -1,8 +1,8 @@
 {
   "name": "dataceva-us-layoff-notices",
   "displayName": "DataCEVA US Layoff Notices",
-  "version": "1.0.0",
-  "description": "Research U.S. layoffs and plant closings from WARN Act notices: sourced company briefings, layoffs near a place, and fair trend comparisons across 46 states and Washington, D.C., using DataCEVA's read-only layoff notices connector.",
+  "version": "1.0.1",
+  "description": "Research U.S. layoffs and WARN Act notices using sourced layoff and plant-closing data. Find company layoff notices, research employer-specific layoff activity, look up layoffs near a city or location, get company briefings, and compare layoff trends across 46 states and Washington, D.C. Powered by DataCEVA's read-only U.S. layoff notices connector.",
   "author": {
     "name": "DataCEVA LLC",
     "email": "access@dataceva.com",
